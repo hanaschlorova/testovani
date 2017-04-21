@@ -23,3 +23,4 @@ def test_deleni_nulou():
     with pytest.raises(Exception):
         vydel(1,0)
 
+print('Ahoj Zuz, doufam, ze mas krasny den a vsechno Ti vychazi.')
